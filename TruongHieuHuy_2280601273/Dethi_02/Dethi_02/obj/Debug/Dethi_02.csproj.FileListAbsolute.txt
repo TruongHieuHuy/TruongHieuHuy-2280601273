@@ -1,0 +1,16 @@
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\bin\Debug\Dethi_02.exe.config
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\bin\Debug\Dethi_02.exe
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\bin\Debug\Dethi_02.pdb
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.csproj.AssemblyReference.cache
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.frmSanpham.resources
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.Properties.Resources.resources
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.csproj.GenerateResource.cache
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.csproj.CoreCompileInputs.cache
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.exe
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.pdb
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\bin\Debug\EntityFramework.dll
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\bin\Debug\EntityFramework.xml
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NNH\source\repos\Dethi_02\Dethi_02\obj\Debug\Dethi_02.csproj.CopyComplete
